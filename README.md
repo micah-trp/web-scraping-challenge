@@ -14,8 +14,8 @@ This section scrapes the Titles and Preview text from [Mars News Website](https:
 
 ## Part 2
 - File: "Part_2_mars_weather_MRaquena.ipynb"  
-This section scrapes the table data from  [Mars Weather Table](https://static.bc-edx.com/data/web/mars_facts/temperature.html).
-
+- This section scrapes the table data from  [Mars Weather Table](https://static.bc-edx.com/data/web/mars_facts/temperature.html).
+- A dataframe which was scraped from the weather website was converted into a csv as "mars_temp_df". git 
 
 ### 1. Months on Mars
 * There are 12 months on mars
